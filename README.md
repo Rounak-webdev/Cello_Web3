@@ -82,7 +82,7 @@ contract KindChain {
 ## 🔗 Deployed Smart Contract
 
 **Network:** Celo / Ethereum Testnet
-**Contract Address:** `https://sepolia.celoscan.io/tx/0xf7e33a24a124f0b0bbeb737a88b67643f4910839aa3e43e5e2e567731d047fe3`
+**Contract Address:** Open(https://sepolia.celoscan.io/tx/0xf7e33a24a124f0b0bbeb737a88b67643f4910839aa3e43e5e2e567731d047fe3)
 
 ---
 
